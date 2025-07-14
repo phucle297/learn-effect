@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "BASE_URL=https://pokeapi.co tsx src/services/index.ts"
+    "dev": "BASE_URL=https://pokeapi.co tsx src/layers/index.ts"
   },
   "keywords": [],
   "author": "",
